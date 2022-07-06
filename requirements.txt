@@ -3,3 +3,4 @@ youtube_dl
 asyncio
 openpyxl
 PyNaCl
+ffmpeg
