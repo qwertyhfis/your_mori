@@ -79,7 +79,7 @@ async def playlist(ctx):
         playstr+=str(i+1)+":"+playlist[i]+"\n"
     await ctx.send(playstr+"```")
 
-bot.run('token')
+bot.run('OTkzNDM5Mjc3NTQ5NjI1Mzg0.G_4Win.rdn8lgkoBHr-NNnjpeEQTLaeGZ3HfdN--ZQLgU')
 token=os.environ.get('token')
 
 
