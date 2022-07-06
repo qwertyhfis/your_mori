@@ -80,6 +80,7 @@ async def playlist(ctx):
     await ctx.send(playstr+"```")
 
 bot.run('token')
+token=os.environ.get('token')
 
 
 
