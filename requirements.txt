@@ -4,3 +4,4 @@ asyncio
 openpyxl
 PyNaCl
 ffmpeg
+pafy
